@@ -30,6 +30,7 @@ from usda_api.scrapers.esr.schemas import (
     ESRCountryExportGeneralCleanedType,
 )
 
+
 API_ID: str = "/api/esr"
 BASE_API: str = "https://apps.fas.usda.gov/OpenData"
 
